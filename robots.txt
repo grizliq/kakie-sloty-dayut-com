@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Host: https://kakie-sloty-dayut.com
+Sitemap: https://kakie-sloty-dayut.com/sitemap.xml
